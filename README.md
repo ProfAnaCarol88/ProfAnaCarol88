@@ -7,7 +7,7 @@ Meu nome é Ana Carolina Ramos
 - Estudo Matemática na UNIVESP
 - Estou me desenvolvendo na linguagem JavaScript
 
-  ### Você pode entrar em contto comigo 📧
+  ### Você pode entrar em contato comigo 📧
 
   anarosalino@professor.educacao.sp.gov.br
 
